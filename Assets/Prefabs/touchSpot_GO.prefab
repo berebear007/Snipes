@@ -107,7 +107,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1893209d885f4384787cf957611adf1c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  decayTime: 2
+  decayTime: 0.5
   alphaLevel: 1
 --- !u!212 &212156480414985596
 SpriteRenderer:
